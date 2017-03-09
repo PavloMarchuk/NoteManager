@@ -32,3 +32,9 @@ namespace ReachTextBox
 			}
 		}
 	}
+
+git push origin master  //запушити
+	git clone https://github.com/PavloMarchuk/NoteManager //клонувати з сервера на інший комп
+	git pull // зкачати нові чужі коміти з сервера
+
+ 
